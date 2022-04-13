@@ -1,5 +1,6 @@
 describe("sum.spec", () => {
   it("should", () => {
-    expect(0).toBe(0);
+    const a: number = 0;
+    expect(a).toBe(0);
   });
 });
